@@ -1,0 +1,11 @@
+{
+    "name": "Selma Torres",
+    "age": 26,
+    "city": "San Fransisco,CA",
+    "interests": [
+        "cooking",
+        "gym",
+        "painting"
+    ],
+    "is_student": true
+}
