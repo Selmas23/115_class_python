@@ -1,11 +1,12 @@
 {
     "name": "Selma Torres",
-    "age": 26,
+    "age": 27,
     "city": "San Fransisco,CA",
     "interests": [
         "cooking",
         "gym",
-        "painting"
+        "painting",
+        "Shopping"
     ],
     "is_student": true
 }
